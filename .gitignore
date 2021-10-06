@@ -1,0 +1,5 @@
+#忽略index.css
+index.js
+
+#忽略text
+test/
